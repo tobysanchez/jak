@@ -21,12 +21,12 @@
     "hideNotiMessage": false
   },
   "adminBot": [
-    "100093222913818",
+    "100083663902597",
     "",
     ""
   ],
   "nickNameBot": "『Makema』〘♡〙」",
-  "prefix": ".",
+  "prefix": ",",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
