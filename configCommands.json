@@ -1,0 +1,93 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "إشعارالمستوى": {
+      "deltaNext": 5
+    },
+    "هدية": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "مستواي": {
+      "deltaNext": 5
+    },
+    "متجر_آبل": {
+      "limitResult": 3
+    },
+    "لعبة": {
+      "reward": 1000
+    },
+    "إشعار": {
+      "delayPerGroup": 250
+    },
+    "منع_الخروج": {
+      "deltaNext": 5
+    },
+    "إلتقاط": {
+      "reward": 1000
+    },
+    "ببجي": {},
+    "كوزبلاي": {},
+    "إعلان": {
+      "deltaNext": 5
+    },
+    "إعادة_الهارب": {
+      "deltaNext": 5
+    },
+    "quiz2": {
+      "reward": 2000
+    },
+    "ادعيه": {},
+    "اذكار": {},
+    "افتار": {},
+    "اقتباسات": {},
+    "رشحلي": {},
+    "حراسة": {
+      "deltaNext": 5
+    },
+    "سب": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 20
+      }
+    },
+    "قران": {},
+    "كوسبلاي": {},
+    "لوليز": {},
+    "نصيحه": {},
+    "هزبند": {},
+    "المالك": {}
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  }
+}
